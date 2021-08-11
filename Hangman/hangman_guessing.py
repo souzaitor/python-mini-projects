@@ -1,0 +1,1 @@
+lista_palavras = [ 'exceto', 'cínico', 'idôneo', 'âmbito', 'néscio', 'índole', 'mister' ]
